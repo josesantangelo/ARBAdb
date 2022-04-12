@@ -141,90 +141,105 @@
     ],
     "taxCategories": [
         {
+            "id": 1,
             "min": 0,
             "max": 350000,
             "fixedFee": 0,
             "aliquot": 0.03305
         },
         {
+            "id": 2,
             "min": 350000,
             "max": 420000,
             "fixedFee": 11568,
             "aliquot": 0.04446
         },
         {
+            "id": 3,
             "min": 420000,
             "max": 490000,
             "fixedFee": 14680,
             "aliquot": 0.04982
         },
         {
+            "id": 4,
             "min": 490000,
             "max": 560000,
             "fixedFee": 18167,
             "aliquot": 0.05298
         },
         {
+            "id": 5,
             "min": 560000,
             "max": 630000,
             "fixedFee": 21876,
             "aliquot": 0.05488
         },
         {
+            "id": 6,
             "min": 630000,
             "max": 700000,
             "fixedFee": 25718,
             "aliquot": 0.05584
         },
         {
+            "id": 7,
             "min": 700000,
             "max": 770000,
             "fixedFee": 29627,
             "aliquot": 0.05723
         },
         {
+            "id": 8,
             "min": 770000,
             "max": 840000,
             "fixedFee": 33633,
             "aliquot": 0.05805
         },
         {
+            "id": 9,
             "min": 840000,
             "max": 910000,
             "fixedFee": 37697,
             "aliquot": 0.05928
         },
         {
+            "id": 10,
             "min": 910000,
             "max": 980000,
             "fixedFee": 41847,
             "aliquot": 0.06006
         },
         {
+            "id": 11,
             "min": 980000,
             "max": 1050000,
             "fixedFee": 46051,
             "aliquot": 0.06085
         },
         {
+            "id": 12,
             "min": 1050000,
             "max": 1190000,
             "fixedFee": 50311,
             "aliquot": 0.06178
         },
         {
+            "id": 13,
             "min": 1190000,
             "max": 1400000,
             "fixedFee": 58960,
             "aliquot": 0.06284
         },
         {
+            "id": 14,
             "min": 1400000,
             "max": 8000000,
             "fixedFee": 72156,
             "aliquot": 0.06323
         },
         {
+            "id": 15,
             "min": 8000000,
             "max": 500000000,
             "fixedFee": 489474,
